@@ -6,15 +6,30 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-14T21:33:12+02:00"
+      "last_modified": "2021-07-16T13:18:07+02:00"
+    },
+    {
+      "path": "cv.html",
+      "title": "Curriculum Vitae",
+      "description": "Here you can find my CV.\n",
+      "author": [],
+      "contents": "\r\nYou can download my CV here.\r\nLast update: 16.07.2021\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-16T13:18:07+02:00"
     },
     {
       "path": "index.html",
       "title": "Malte Lüken",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-14T21:33:22+02:00"
+      "contents": "\r\n\r\n          \r\n      \r\n      \r\n      \r\n      Home\r\n      \r\n      \r\n      CV\r\n      Publications\r\n      \r\n      \r\n      \r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            Malte Lüken\r\n          \r\n          \r\n            \r\n              Graduate student in the Research Master’s Psychology at the University of Amsterdam with a focus on methodology and statistics. My research interests are computational modeling, (Bayesian) statistics, and machine learning applied to cognitive and clinical psychology. Open science advocate and enthusiastic piano player. Soon-to-be PhD candidate at KU Leuven.\r\n            \r\n            \r\n              Graduate student in the Research Master’s Psychology at the University of Amsterdam with a focus on methodology and statistics. My research interests are computational modeling, (Bayesian) statistics, and machine learning applied to cognitive and clinical psychology. Open science advocate and enthusiastic piano player. Soon-to-be PhD candidate at KU Leuven.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    \r\n      This website was created using distill (version: 1.2).\r\n      \r\n      \r\n    \r\n  ",
+      "last_modified": "2021-07-16T13:18:08+02:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publications",
+      "description": "Here you can find a list of my publications and other contributions.\n",
+      "author": [],
+      "contents": "\r\nLüken, M., Edenbrandt, A. K., Lagerkvist, C., & Orquin, J. L. (2019, June 12-14). The role of alternative-non-attendance in consumer decision making: Evidence from an eye-tracking study [Paper presentation]. 38th Meeting of the European Group of Process Tracing Studies, Dresden, Germany.\r\nLüken, M., Kucharský, Š., & Visser, I. (2020). Classifying eye movement events with an unsupervised generative hidden Markov model. PsyArXiv. https://doi.org/10.31234/osf.io/wvp2f\r\nSchoemann, M., Lüken, M., Grage, T., Kieslich, P. J., & Scherbaum, S. (2019). Validating mouse-tracking: How design factors influence action dynamics in intertemporal decision making. Behavior Research Methods, 51(5), 2356–2377. https://doi.org/10.3758/s13428-018-1179-4\r\nOther Work\r\nLüken, M. (2018). Gammaregression: Reaktionszeitanalyse im Kontext von ADHS [Unpublished bachelor’s thesis]. Technische Universität Dresden.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-16T13:18:08+02:00"
     }
   ],
   "collections": []

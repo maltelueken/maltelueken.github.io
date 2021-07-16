@@ -1,0 +1,16 @@
+---
+title: "Publications"
+description: |
+  Here you can find a list of my publications and other contributions.
+site: distill::distill_website
+---
+
+Lüken, M., Edenbrandt, A. K., Lagerkvist, C., & Orquin, J. L. (2019, June 12-14). The role of alternative-non-attendance in consumer decision making: Evidence from an eye-tracking study [Paper presentation]. 38th Meeting of the European Group of Process Tracing Studies, Dresden, Germany.
+
+Lüken, M., Kucharský, Š., & Visser, I. (2020). Classifying eye movement events with an unsupervised generative hidden Markov model. *PsyArXiv*. https://doi.org/10.31234/osf.io/wvp2f
+
+Schoemann, M., Lüken, M., Grage, T., Kieslich, P. J., & Scherbaum, S. (2019). Validating mouse-tracking: How design factors influence action dynamics in intertemporal decision making. *Behavior Research Methods, 51*(5), 2356–2377. https://doi.org/10.3758/s13428-018-1179-4
+
+# Other Work
+
+Lüken, M. (2018). Gammaregression: Reaktionszeitanalyse im Kontext von ADHS [Unpublished bachelor's thesis]. Technische Universität Dresden.

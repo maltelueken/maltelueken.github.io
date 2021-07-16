@@ -1,0 +1,22 @@
+---
+title: "Curriculum Vitae"
+description: |
+  Here you can find my CV.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include=FALSE}
+
+fileName <- "CV_Malte_Lüken.pdf"
+
+rmarkdown::output_metadata$set(rsc_output_files = list(fileName))
+
+```
+
+You can download my CV [here](`r fileName`).
+
+Last update: 16.07.2021

@@ -1,12 +1,16 @@
 ---
 title: "Malte Lüken"
-description: |
- Welcome to the website. I hope you enjoy it!
+image: "profile_picture.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/maltelueken"
+  - label: GitHub
+    url: "https://github.com/maltelueken"
+  - label: Email
+    url: "mailto:malte_lueken@arcor.de"
 site: distill::distill_website
+output:
+  postcards::jolla
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-```
-
+ 
+Graduate student in the Research Master's Psychology at the University of Amsterdam with a focus on methodology and statistics. My research interests are computational modeling, (Bayesian) statistics, and machine learning applied to cognitive and clinical psychology. Open science advocate and enthusiastic piano player. Soon-to-be PhD candidate at KU Leuven.
