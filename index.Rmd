@@ -6,6 +6,8 @@ links:
     url: "https://twitter.com/maltelueken"
   - label: GitHub
     url: "https://github.com/maltelueken"
+  - label: LinkedIn
+    url: "www.linkedin.com/in/malte-lüken"
   - label: Email
     url: "mailto:malte_lueken@arcor.de"
 site: distill::distill_website
@@ -13,4 +15,4 @@ output:
   postcards::jolla
 ---
  
-Graduate student in the Research Master's Psychology at the University of Amsterdam with a focus on methodology and statistics. My research interests are computational modeling, (Bayesian) statistics, and machine learning applied to cognitive and clinical psychology. Open science advocate and enthusiastic piano player. Soon-to-be PhD candidate at KU Leuven.
+PhD candidate at KU Leuven working on machine learning models in the context of physiological state transitions. Graduated from the Research Master's Psychology at the University of Amsterdam with a focus on methodology and statistics. Formerly contributing to the open science software JASP. My interests are applied (Bayesian) statistics, machine learning, and programming in research (R and Python). Open science advocate and enthusiastic piano player.
