@@ -13,8 +13,14 @@ Schoemann, M., Lüken, M., Grage, T., Kieslich, P. J., & Scherbaum, S. (2019). V
 
 Lüken, M., Edenbrandt, A. K., Lagerkvist, C., & Orquin, J. L. (2019, June 12-14). The role of alternative-non-attendance in consumer decision making: Evidence from an eye-tracking study [Paper presentation]. 38th Meeting of the European Group of Process Tracing Studies, Dresden, Germany.
 
+# Blog Posts
+
+Lüken, M. (2021, October 5). Raincloud plots: Innovative data visualizations in JASP. JASP Stats. https://jasp-stats.org/2021/10/05/raincloud-plots-innovative-data-visualizations-in-jasp/
+
+Lüken, M., & Kucharsky, S. (2021, October 12). Time series forecasting: Introduction to the Prophet module in JASP. JASP Stats. https://jasp-stats.org/2021/10/12/time-series-forecasting-introduction-to-the-prophet-module-in-jasp/
+
 # Thesis Projects
 
-Lüken, M. (2021). Don't make it too easy - Optimal error rates for parameter identifiability in evidence accumulation models [Unpublished master's thesis]. Unversiteit van Amsterdam.
+Lüken, M. (2021). Don't make it too easy - Optimal error rates for parameter identifiability in evidence accumulation models [Unpublished master's thesis]. Universiteit van Amsterdam.
 
 Lüken, M. (2018). Gammaregression: Reaktionszeitanalyse im Kontext von ADHS [Unpublished bachelor's thesis]. Technische Universität Dresden.
