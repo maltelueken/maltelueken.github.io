@@ -5,6 +5,8 @@ description: |
 site: distill::distill_website
 ---
 
+Edenbrandt, A. K., Lagerkvist, C., Lüken, M., & Orquin, J. L. (2022). Seen but not considered? Awareness and consideration in choice analysis. *Journal of Choice Modelling, 45*, 100375. https://doi.org/10.1016/j.jocm.2022.100375
+
 Lüken, M., Kucharský, Šimon, & Visser, I. (2022). Characterising eye movement events with an unsupervised hidden Markov model. *Journal of Eye Movement Research, 15*(1). https://doi.org/10.16910/jemr.15.1.4
 
 Schoemann, M., Lüken, M., Grage, T., Kieslich, P. J., & Scherbaum, S. (2019). Validating mouse-tracking: How design factors influence action dynamics in intertemporal decision making. *Behavior Research Methods, 51*(5), 2356–2377. https://doi.org/10.3758/s13428-018-1179-4

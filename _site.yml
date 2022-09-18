@@ -7,8 +7,6 @@ navbar:
   logo:
     image: profile_picture_round.png
   right:
-    - text: "CV"
-      href: cv.html
     - text: "Projects"
       href: projects.html
     - text: "Publications"
