@@ -5,6 +5,10 @@ description: |
 site: distill::distill_website
 ---
 
+Lüken, M., Moodley, K., Viviani, E., Pipal, C., & Schumacher, G. (2024, January 18). MEXCA - A simple and robust pipeline for capturing emotion expressions in faces, vocalization, and speech. *PsyArXiv*. https://doi.org/10.31234/osf.io/56svb [submitted]
+
+Lüken, M., Heathcote, A., Haaf, J. M., & Matzke, D. (2023, October 18). Parameter identifiability in evidence-accumulation models: The effect of error rates on the Diffusion Decision Model and the Linear Ballistic Accumulator. *PsyArXiv*. https://doi.org/10.31234/osf.io/wsgnt [under revision]
+
 Edenbrandt, A. K., Lagerkvist, C., Lüken, M., & Orquin, J. L. (2022). Seen but not considered? Awareness and consideration in choice analysis. *Journal of Choice Modelling, 45*, 100375. https://doi.org/10.1016/j.jocm.2022.100375
 
 Lüken, M., Kucharský, Šimon, & Visser, I. (2022). Characterising eye movement events with an unsupervised hidden Markov model. *Journal of Eye Movement Research, 15*(1). https://doi.org/10.16910/jemr.15.1.4
@@ -13,9 +17,17 @@ Schoemann, M., Lüken, M., Grage, T., Kieslich, P. J., & Scherbaum, S. (2019). V
 
 # Talks
 
+Lüken, M., Vroegh, T., van Doorn, J., & Wagenmakers, E.-J. (2023, November 2). Intuitive, accessible, flexible: A JASP module for conditional process models [paper presentation]. ODISSEI Conference for Social Sciences in the Netherlands (OCSSN), Utrecht. Zenodo. https://doi.org/10.5281/zenodo.10069068
+
 Lüken, M., Edenbrandt, A. K., Lagerkvist, C., & Orquin, J. L. (2019, June 12-14). The role of alternative-non-attendance in consumer decision making: Evidence from an eye-tracking study [Paper presentation]. 38th Meeting of the European Group of Process Tracing Studies, Dresden, Germany.
 
 # Blog Posts
+
+Lüken, M., Rohrer, J. M., Vroegh, T., van Doorn, J., & Wagenmakers, E.-J. (2024, January 29). Causal inference in JASP: The Process module. JASP Stats. https://jasp-stats.org/2024/01/29/causal-inference-in-jasp-the-process-module/
+
+Lüken, M., Vroegh, T., van Doorn, J., & Wagenmakers, E.-J. (2023, July 27). Coming soon: Conditional process models in JASP. JASP Stats. https://jasp-stats.org/2023/07/27/conditional-process-models/
+
+Lüken, M. (2021, December 1). Immaculate speech and hallucinations - When (not) to use OpenAI’s Whisper to transcribe audio in a social sciences project. Netherlands eScience Center Blog. https://blog.esciencecenter.nl/immaculate-speech-and-hallucinations-ea87e545a9ef
 
 Lüken, M. (2021, October 5). Raincloud plots: Innovative data visualizations in JASP. JASP Stats. https://jasp-stats.org/2021/10/05/raincloud-plots-innovative-data-visualizations-in-jasp/
 
