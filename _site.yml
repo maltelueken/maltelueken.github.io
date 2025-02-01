@@ -4,11 +4,9 @@ description: |
   Malte Lüken
 output_dir: "."
 navbar:
-  logo:
-    image: profile_picture_round.png
   right:
-    - text: "Projects"
-      href: projects.html
+    - text: "CV"
+      href: cv.html
     - text: "Publications"
       href: publications.html
     - icon: fab fa-github

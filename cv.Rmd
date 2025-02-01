@@ -1,0 +1,35 @@
+---
+title: "Curriculum Vitae"
+description: |
+  Here you can find my current and previous education and employment.
+site: distill::distill_website
+color1: "#0e6e10"
+color2: "#8ae38c"
+angle: 130
+output:
+  postcards::onofre
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Employment
+
+#### Research Software Engineer
+Netherlands eScience Center | Since February 2022
+
+## Education
+
+#### PhD Candidate
+University of Amsterdam, Department of Methodology and Statistics | Since April 2024
+
+#### Research Master's Psychology
+University of Amsterdam | 2019-2021
+
+Major: Methodology and Statistics
+
+Minor: Brain and Cognition
+
+#### Bachelor's Psychology
+Technische Universität Dresden | 2015-2019

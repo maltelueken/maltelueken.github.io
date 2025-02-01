@@ -2,8 +2,8 @@
 title: "Malte Lüken"
 image: "profile_picture.jpg"
 links:
-  - label: Twitter
-    url: "https://twitter.com/maltelueken"
+  - label: Bluesky
+    url: "https://bsky.app/profile/maltelueken.bsky.social"
   - label: GitHub
     url: "https://github.com/maltelueken"
   - label: LinkedIn
@@ -11,8 +11,15 @@ links:
   - label: Email
     url: "mailto:malte_lueken@arcor.de"
 site: distill::distill_website
+color1: "#0e6e10"
+color2: "#8ae38c"
+angle: 130
 output:
-  postcards::jolla
+  postcards::onofre
 ---
 
-Research Software Engineer at the Netherlands eScience Center based in Amsterdam. Working on natural language processing and machine learning in the digital humanities and social sciences. Graduated from the Research Master's Psychology at the University of Amsterdam with a focus on methodology and statistics. Formerly contributing to the open science software JASP. My interests are applied (Bayesian) statistics, machine learning, and programming in research (R and Python). Open science advocate and enthusiastic piano player.
+I am a Research Software Engineer at the Netherlands eScience Center and PhD Candidate at the University of Amsterdam.
+My work is embedded in the computational social sciences including machine and deep learning, large language models,
+network analysis, and applied statistics. My goal is to make new and complex technologies accessible to researchers.
+In my PhD, I focus on amortized Bayesian inference for cognitive models of decision
+making. In my free time, I enjoy dancing salsa and playing the piano.
